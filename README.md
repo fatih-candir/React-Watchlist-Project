@@ -17,7 +17,7 @@ React ile basit, temiz ve hızlı bir kullanıcı arayüzü sunar. :contentRefer
 
 ## 🚀 Demo
 
-👉 Canlı çalışan demo: https://react-watchlist-project.netlify.app/ :contentReference[oaicite:3]{index=3}
+👉 Canlı çalışan demo: https://react-watchlist-project.netlify.app/
 
 ---
 
